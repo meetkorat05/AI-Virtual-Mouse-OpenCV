@@ -40,15 +40,15 @@ This project demonstrates the practical application of **Computer Vision**, **Hu
 ## 📂 Project Structure
 
 ```
-AI-Virtual-Mouse/
+AI-Virtual-Mouse-OpenCV/
 │
 ├── AiVirtualMouseProject.py      # Main application
 ├── HandTrackingModule.py         # Hand detection module
 ├── README.md
 ├── .gitignore
 └── images/
-    ├── ai-virtual-mouse.png
-    └── project-demo-video.mp4
+    ├── Project-Demo-Video.mp4 
+    └── ai-virtual-mouse.png
 ```
 
 ---
@@ -88,33 +88,6 @@ AI-Virtual-Mouse/
 - Gesture-Controlled Systems
 - Computer Vision Learning
 - AI-Based Automation
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to your branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
 
 ---
 
