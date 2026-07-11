@@ -44,6 +44,7 @@ AI-Virtual-Mouse-OpenCV/
 │
 ├── AiVirtualMouseProject.py      # Main application
 ├── HandTrackingModule.py         # Hand detection module
+├── demo.py
 ├── README.md
 ├── .gitignore
 └── assets
@@ -78,6 +79,8 @@ AI-Virtual-Mouse-OpenCV/
 <img src="assets/image.png" alt="Demo" width="400"/>
 <img src="assets/image (1).png" alt="Demo" width="400"/>
 <img src="assets/image (2).png" alt="Demo" width="400"/>
+
+Demo Video : https://drive.google.com/file/d/1iJAz6ilmd1g5mThSb1Bh2u4b0ea3kt4y/view?usp=sharing
 
 ---
 
